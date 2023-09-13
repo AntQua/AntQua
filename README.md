@@ -2,6 +2,8 @@
 <h3 align="center">A Junior Full-Stack Web Developer</h3>
 
 - 🏠 Living in Lisbon, Portugal.
+
+- ♻ On a career change path from banking to web devlopment 💪
   
 - 🔭 Just finished the Web Development bootcamp at LeWagon Lisbon. 
 
@@ -9,9 +11,9 @@
 
 - 🥳 Whiling to start working on great and challenging projects where i can grow and keep learning.
   
-- 🌱 Soon i´ll start learning a new framework, maybe Vue or React 🤔
+- 🌱 Soon i´ll start learning a new framework, maybe Vue or React.
 
-- ⚡ Fun fact **I'm a dog dad (Twins!)**
+- ⚡ Fun fact: **I'm a dog dad (Twins!)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
