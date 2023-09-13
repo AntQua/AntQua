@@ -1,5 +1,5 @@
 <h1 align="center">Sup! 👋, I'm Antonio!</h1>
-<h3 align="center">A Junior Full-Stack Developer</h3>
+<h3 align="center">A Junior Full-Stack Web Developer</h3>
 
 - 🏠 Living in Lisbon, Portugal.
   
