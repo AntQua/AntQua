@@ -1,6 +1,16 @@
 <h1 align="center">Sup! 👋, I'm Antonio!</h1>
 <h3 align="center">A Junior Full-Stack Developer</h3>
 
+- 🏠 Living in Lisbon, Portugal.
+  
+- 🔭 Just finished the Web Development bootcamp at LeWagon Lisbon. 
+
+- 🚀 I’m looking for my first job as a Web Developer!
+
+- 🥳 Whiling to start working on great and challenging projects where i can grow and keep learning.
+  
+- 🌱 Soon i´ll start learning a new framework, maybe Vue or React 🤔
+
 - ⚡ Fun fact **I'm a dog dad (Twins!)**
 
 <h3 align="left">Connect with me:</h3>
