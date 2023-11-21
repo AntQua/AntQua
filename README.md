@@ -11,7 +11,7 @@
 
 - 🥳 Whiling to start working on great and challenging projects where i can grow and keep learning.
   
-- 🌱 Soon i´ll start learning a new framework, maybe Vue or React.
+- 🌱 I'm learning a new framework: Vue! 🥳
 
 - ⚡ Fun fact: **I'm a dog dad (Twins!)**
 
