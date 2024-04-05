@@ -5,7 +5,7 @@
 
 - ♻ On a career change path from banking to web devlopment 💪
   
-- 🔭 Just finished the Web Development bootcamp at LeWagon Lisbon. 
+- 🔭 Just finished the Web Development bootcamp at LeWagon Lisbon
 
 - 🚀 I’m looking for my first job as a Web Developer!
 
