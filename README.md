@@ -1,4 +1,4 @@
-<h1 align="center">Sup! 👋, I'm Antonio!</h1>
+<h1 align="center">👋, I'm Antonio!</h1>
 <h3 align="center">A Junior Data Scientist and Full-Stack Web Developer</h3>
 
 - 🏠 Living in Lisbon, Portugal.
