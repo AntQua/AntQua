@@ -3,7 +3,7 @@
 
 - 🏠 Living in Lisbon, Portugal.
 
-- ♻ On a career change path from banking todata science and web dev 💪
+- ♻ On a career change path from banking to data science and web dev 💪
   
 - 🔭 Just finished the Data Science bootcamp at LeWagon Lisbon
 
